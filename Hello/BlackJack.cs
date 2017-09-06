@@ -18,12 +18,13 @@ namespace Hello
             //reading and converting 
             theirNumber = System.Convert.ToInt32(System.Console.ReadLine());
             //comparing that given umber is valid
-            if (theirNumber < 1 || theirNumber > 21)
-            {
-                Console.WriteLine("The given number is out of limits, try again.");
-            }
-            else
-            {
+            if  
+                (theirNumber < 1 || theirNumber > 21) break
+            
+                Console.WriteLine("Peli lopetetaan.");
+                //Console.WriteLine("The given number is out of limits, try again.");
+
+                           
                 //comparing
                 if (theirNumber >= myNumber && theirNumber <= 21)
                 {
@@ -33,7 +34,7 @@ namespace Hello
                 {
                     System.Console.WriteLine("You lose.");
                 }
-            }
+            
         }
     }
 }
