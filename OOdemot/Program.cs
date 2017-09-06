@@ -1,7 +1,10 @@
-﻿using JAMK.IT; //helpottaa meidän tekemien luokkien löytämistä
+﻿//ttos0200 olio-ohjelmointi viikkotehtävät- github-testi
+//virve vähäsarja
+
+using JAMK.IT; //helpottaa meidän tekemien luokkien löytämistä
 using System;
 
-namespace OOdemot
+namespace JAMK.IT
 {
   class Program
   {
