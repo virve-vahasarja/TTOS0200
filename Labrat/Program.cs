@@ -10,7 +10,7 @@ namespace Labrat
     {
         static void Main(string[] args)
         {//kutsu tehtävät
-            Lab01.Tehtava01();
+            Lab01_T2.Tehtava02();
         }
     }
 }
