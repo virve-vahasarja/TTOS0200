@@ -9,8 +9,9 @@ namespace Labrat
     class Program
     {
         static void Main(string[] args)
-        {//kutsu tehtävät
-            Lab01_T2.Tehtava02();
+        {
+            //kutsu tehtävät
+            Lab01_T4.Tehtava04();
         }
     }
 }

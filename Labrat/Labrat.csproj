@@ -42,8 +42,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Lab01_T4.cs" />
     <Compile Include="Lab01_T2.cs" />
     <Compile Include="Lab01.cs" />
+    <Compile Include="Lab01_T3.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
