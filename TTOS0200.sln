@@ -1,11 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.26730.12
+VisualStudioVersion = 15.0.26430.16
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Labrat", "Labrat\Labrat.csproj", "{E10AEFCE-23DC-4265-83E8-BDD2A3E65006}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Labra3", "Labra3\Labra3.csproj", "{BB4C85BA-81EF-47BC-AE28-0CBEFB198772}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "vk44", "vk44\vk44.csproj", "{F571EA6E-36C2-43CD-A465-5B4C202A59A9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{BB4C85BA-81EF-47BC-AE28-0CBEFB198772}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BB4C85BA-81EF-47BC-AE28-0CBEFB198772}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BB4C85BA-81EF-47BC-AE28-0CBEFB198772}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F571EA6E-36C2-43CD-A465-5B4C202A59A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F571EA6E-36C2-43CD-A465-5B4C202A59A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F571EA6E-36C2-43CD-A465-5B4C202A59A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F571EA6E-36C2-43CD-A465-5B4C202A59A9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
